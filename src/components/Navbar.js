@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.png';
@@ -6,12 +6,6 @@ import gitLogo from '../assets/git.png';
 import linkedInLogo from '../assets/linkedIn.png';
 
 const Navbar = () => {
-    const [isOpen, setIsOpen] = useState(false);
-
-    const toggleFunc = () => {
-        setIsOpen(true);
-    };
-
     return(
         <Container>
             <ImgContainer>
