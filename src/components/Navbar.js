@@ -9,7 +9,7 @@ const Navbar = () => {
     return(
         <Container>
             <ImgContainer>
-                <LinkImgContainer to='/'><ImgItem src={logo} alt='AJB Logo with link to home'/></LinkImgContainer>
+                <LinkImgContainer to='/portfolio'><ImgItem src={logo} alt='AJB Logo with link to home'/></LinkImgContainer>
             </ImgContainer>
             <NavContainer>
                 <LinkContainer to='/about'>About</LinkContainer>
