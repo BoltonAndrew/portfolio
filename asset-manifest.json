@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/portfolio/static/js/main.23826fcd.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.23826fcd.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.e097ebe1.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.e097ebe1.js.map",
+    "static/js/2.48f2aa34.chunk.js": "/portfolio/static/js/2.48f2aa34.chunk.js",
+    "static/js/2.48f2aa34.chunk.js.map": "/portfolio/static/js/2.48f2aa34.chunk.js.map",
+    "static/js/3.6141804c.chunk.js": "/portfolio/static/js/3.6141804c.chunk.js",
+    "static/js/3.6141804c.chunk.js.map": "/portfolio/static/js/3.6141804c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/portfolio/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.48f2aa34.chunk.js.LICENSE.txt": "/portfolio/static/js/2.48f2aa34.chunk.js.LICENSE.txt",
+    "static/media/Baron Neue Italic.c7a98f95.otf": "/portfolio/static/media/Baron Neue Italic.c7a98f95.otf",
+    "static/media/TopTrumps.a0a58a92.PNG": "/portfolio/static/media/TopTrumps.a0a58a92.PNG",
+    "static/media/background.0865a435.jpeg": "/portfolio/static/media/background.0865a435.jpeg",
+    "static/media/collision.96aaaa48.PNG": "/portfolio/static/media/collision.96aaaa48.PNG",
+    "static/media/logo.a593cdee.png": "/portfolio/static/media/logo.a593cdee.png",
+    "static/media/pokemon.264f4973.PNG": "/portfolio/static/media/pokemon.264f4973.PNG",
+    "static/media/tictactoe.a069969e.PNG": "/portfolio/static/media/tictactoe.a069969e.PNG",
+    "static/media/ypj2WC.3eaaab75.png": "/portfolio/static/media/ypj2WC.3eaaab75.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e097ebe1.js",
+    "static/js/2.48f2aa34.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.23826fcd.chunk.js"
+  ]
+}
